@@ -14,14 +14,15 @@
         },
     ],
     "targets": {
-        "word": "A",
-        "definition": "B",
+        "entryID": "0"
+        "definition": "1",
+        "word": "2",
         "audio": [
             {
-                "filename": "C",
-                "speaker": "D"
+                "speaker": "3",
+                "filename": "4"
             }
         ],
-        "theme": "E",
+        "theme": "5",
     }
 }
