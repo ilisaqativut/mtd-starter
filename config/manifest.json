@@ -22,7 +22,7 @@
     ],
     "targets": {
         "entryID": "A",
-        "phrase": "B",
+        "word": "B",
         "definition": "C",
         "audio": [
             {
