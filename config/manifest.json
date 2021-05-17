@@ -1,19 +1,19 @@
 {
     "file_type": "csv",
     "name": "Inupiaq Phrasebook",
-    "display": "phrase",
+    "display": "word",
     "compare": "compare_form",
     "sorting": "sort_form",
     "transducers": [
         {
-            "source": "phrase",
+            "source": "word",
             "target": "compare_form",
             "functions": [
                 "../transducers/inupiaq-approx.yaml"
             ]
         },
         {
-            "source": "phrase",
+            "source": "word",
             "target": "sort_form",
             "functions": [
                 "lambda x: x.lower()"
@@ -34,7 +34,7 @@
         "theme": "F",
         "optional": [
             {
-                "Pronunciation": "6"
+                "Pronunciation": "H"
             }
         ]
     }
