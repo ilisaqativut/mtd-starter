@@ -21,20 +21,20 @@
         }
     ],
     "targets": {
-        "entryID": "A",
-        "word": "B",
-        "definition": "C",
+        "entryID": "1",
+        "word": "2",
+        "definition": "3",
         "audio": [
             {
-                "speaker": "D",
-                "variety": "E",
-                "filename": "G"
+                "speaker": "4",
+                "variety": "5",
+                "filename": "6"
             }
         ],
-        "theme": "F",
+        "theme": "7",
         "optional": [
             {
-                "Pronunciation": "H"
+                "Pronunciation": "8"
             }
         ]
     }
