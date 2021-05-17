@@ -1,6 +1,6 @@
 {
-    "file_type": "csv",
-    "name": "words",
+    "file_type": "xlsx",
+    "name": "Inupiaq Phrasebook",
     "display": "word",
     "compare": "compare_form",
     "sorting": "sort_form",
@@ -21,20 +21,14 @@
         }
     ],
     "targets": {
-        "entryID": "0",
-        "definition": "1",
-        "word": "2",
+        "word": "A",
+        "definition": "B",
         "audio": [
             {
-                "speaker": "3",
-                "filename": "4"
+                "speaker": "C",
+                "filename": "D"
             }
         ],
-        "theme": "5",
-        "optional": [
-            {
-                "Pronunciation": "6"
-            }
-        ]
+        "theme": "E",
     }
 }
