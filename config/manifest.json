@@ -21,19 +21,15 @@
         }
     ],
     "targets": {
-        "entryID": "0",
-        "definition": "1",
-        "word": "2",
+        "word": "A",
+        "definition": "B",
         "audio": [
             {
-                "speaker": "3",
-                "filename": "4"
+                "filename": "C",
+                "speaker": "D"
             }
         ],
-        "theme": "5",
-        "optional": [
-            {
-                "Pronunciation": "6"
+        "theme": "E"
             }
         ]
     }
