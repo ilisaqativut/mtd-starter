@@ -21,14 +21,14 @@
         }
     ],
     "targets": {
-        "entryID": "0",
-        "phrase": "A",
-        "definition": "B",
+        "entryID": "A",
+        "phrase": "B",
+        "definition": "C",
         "audio": [
             {
-                "speaker": "C",
-                "variety": "D",
-                "filename": "E"
+                "speaker": "D",
+                "variety": "E",
+                "filename": "G"
             }
         ],
         "theme": "F",
