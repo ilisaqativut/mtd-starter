@@ -26,15 +26,14 @@
         "definition": "2",
         "audio": [
             {
-                "speaker": "3",
-                "variety": "4",
-                "filename": "5"
+                "dialect": "3",
+                "filename": "4"
             }
         ],
-        "theme": "6",
+        "theme": "5",
         "optional": [
             {
-                "Pronunciation": "7"
+                "Pronunciation": "6"
             }
         ]
     }
