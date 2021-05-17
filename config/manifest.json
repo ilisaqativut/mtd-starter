@@ -1,19 +1,19 @@
 {
     "file_type": "csv",
-    "name": "words",
-    "display": "word",
+    "name": "Inupiaq Phrasebook",
+    "display": "phrase",
     "compare": "compare_form",
     "sorting": "sort_form",
     "transducers": [
         {
-            "source": "word",
+            "source": "phrase",
             "target": "compare_form",
             "functions": [
-                "../transducers/danish-approx.yaml"
+                "../transducers/inupiaq-approx.yaml"
             ]
         },
         {
-            "source": "word",
+            "source": "phrase",
             "target": "sort_form",
             "functions": [
                 "lambda x: x.lower()"
@@ -22,15 +22,16 @@
     ],
     "targets": {
         "entryID": "0",
-        "definition": "1",
-        "word": "2",
+        "phrase": "A",
+        "definition": "B",
         "audio": [
             {
-                "speaker": "3",
-                "filename": "4"
+                "speaker": "C",
+                "variety": "D",
+                "filename": "E"
             }
         ],
-        "theme": "5",
+        "theme": "F",
         "optional": [
             {
                 "Pronunciation": "6"
