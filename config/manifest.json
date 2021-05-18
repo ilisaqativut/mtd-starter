@@ -29,11 +29,11 @@
                 "speaker": "3",
                 "filename": "4"
             }
-        ],
-        "theme": "6",
+    ],
+        "theme": "5",
         "optional": [
             {
-                "variety": "7"
+                "Variety": "6"
             }
         ]
     }
