@@ -27,10 +27,14 @@
         "audio": [
             {
                 "speaker": "3",
-                "dialect": "4",
-                "filename": "5"
+                "filename": "4"
             }
         ],
         "theme": "6"
+        "optional": [
+            {
+                "variety": "7"
+            }
+        ]
     }
 }
