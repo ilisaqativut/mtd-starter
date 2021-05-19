@@ -1,5 +1,5 @@
 {
-    "file_type": "xlsx",
+    "file_type": "csv",
     "name": "words",
     "display": "word",
     "compare": "compare_form",
@@ -21,20 +21,20 @@
         }
     ],
     "targets": {
-        "entryID": "A",
-        "word": "B",
-        "definition": "C",
+        "entryID": "0",
+        "word": "1",
+        "definition": "2",
         "audio": [
             {
-                "speaker": "D",
-                "filename": "E"
+                "speaker": "3",
+                "filename": "4"
             }
         ],
-        "theme": "F",
+        "theme": "5",
         "optional": [
             {
-                "Dialect": "G",
-                "Source": "H"
+                "Dialect": "6",
+                "Source": "7"
             }
         ]
     }
