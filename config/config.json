@@ -9,7 +9,7 @@
     "data": [
         {
             "manifest": "./manifest.json",
-            "resource": "../data/data.xlsx"
+            "resource": "../data/data.csv"
         }
     ]
 }
