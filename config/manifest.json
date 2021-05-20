@@ -18,7 +18,11 @@
             "functions": [
                 "lambda x: x.lower()"
             ]
-        }
+        },
+            { 
+                "filename": "C",
+                "speaker": "F" 
+            } 
     ],
     "targets": {
         "entryID": "0",
