@@ -2,7 +2,7 @@
     "config": {
         "L1": "Iñupiaq",
         "L2": "English",
-        "optional_field_title": "Optional Info",
+        "optional_field_title": "Dialect and Sources",
         "alphabet": "../alphabet.csv",
         "audio_path": "https://mylescreed.github.io/mtd-starter/data/audio/"
     },
