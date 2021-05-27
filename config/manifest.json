@@ -7,6 +7,13 @@
     "transducers": [
         {
             "source": "word",
+            "target": "norm_form",
+            "functions": [
+                "lambda x: x.lower()"
+            ]
+        },
+        {
+            "source": "norm_form",
             "target": "compare_form",
             "functions": [
                 "../transducers/inupiaq-approx.yaml"
@@ -28,6 +35,10 @@
             {
                 "speaker": "3",
                 "filename": "4"
+            },
+            {
+                "speaker": "8",
+                "filename": "9"
             }
         ],
         "theme": "5",
