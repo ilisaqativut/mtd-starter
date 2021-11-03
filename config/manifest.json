@@ -1,6 +1,6 @@
 {
     "file_type": "csv",
-    "name": "words",
+    "name": "All Phrases",
     "display": "word",
     "compare": "compare_form",
     "sorting": "sort_form",
