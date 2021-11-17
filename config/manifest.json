@@ -49,7 +49,10 @@
         "optional": [
             {
                 "Dialect": "6",
-                "Source": "7"
+                "Source": "7",
+                "North Slope translation": "12",
+                "Malimiut translation": "13",
+                "Ugiuvaŋmiutun (KI) translation": "14"
             }
         ]
     }
